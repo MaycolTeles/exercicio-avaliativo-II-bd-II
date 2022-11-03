@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # S202
 
 ## Material:
@@ -13,3 +14,6 @@ https://determined-zebra-b82.notion.site/Bancos-de-dados-II-580c835e83554a9b9300
     ```sh
     python main.py
     ```
+=======
+# exercicio-avaliativo-II-bd-II
+>>>>>>> 3e8f3a82f6e9f71319037956d23f775b4b345677
